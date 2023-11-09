@@ -718,3 +718,9 @@ li {
 		background-size: 22px 34px;
 	}
 }
+
+canvas {
+	width: 500px !important;
+	height: 500px !important;
+	margin: 0 auto;
+}
